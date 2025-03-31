@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, NextJs, PostgreSQL, Prisma, Turborepo, WebSockets**
 
-- 🌱 I’m currently learning **Rust and I am also exploring WEB3.**
+- 🌱 I’m currently learning **Java.**
 
 - 💬 Ask me about **React, NodeJs, NextJs, mongoDB, PostgreSQL, Prisma.**
 
